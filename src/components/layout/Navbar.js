@@ -15,6 +15,8 @@ return(
           <li className={styles.item}> <Link to="/despesas">Despesas</Link> </li>
           <li className={styles.item}> <Link to="/rendas">Rendas</Link> </li> 
           <li className={styles.item}> <Link to="/relatorios">Relatórios</Link> </li>
+           <li className={styles.item}> <Link to="/usuario">CadastroUsuario</Link> </li>
+
            </ul>
         </Container>
     </nav>
