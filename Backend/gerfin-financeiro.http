@@ -1,0 +1,6 @@
+@gerfin_financeiro_HostAddress = http://localhost:5003
+
+GET {{gerfin_financeiro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
